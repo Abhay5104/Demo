@@ -10,6 +10,7 @@ namespace Ngvl
     {
         static void Main(string[] args)
         {
+            // NQR 
         }
     }
 }
