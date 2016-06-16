@@ -10,6 +10,9 @@ namespace Ngvl
     {
         static void Main(string[] args)
         {
+            //deploy the agreement broker
+
+            // AQR
         }
     }
 }
